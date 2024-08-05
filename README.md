@@ -1,2 +1,4 @@
-# Data_Structure_And_Algorithm
- In this repositry you can find the code for different data structures
+# Output Photos
+
+### EvaluationInfixToPostfix
+![EvaluationInfixToPostfix](images/EvaluationInfixToPostfix.png)
