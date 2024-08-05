@@ -1,4 +1,4 @@
 # Output Photos
 
 ### EvaluationInfixToPostfix
-![EvaluationInfixToPostfix](OutputImages/EvaluationInfixToPostfix.png)
+![EvaluationInfixToPostfix](EvaluationInfixToPostfix.png)
