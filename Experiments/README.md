@@ -1,1 +1,1 @@
-![Experiment list](Experiment_List.jpg)
+![Experiment list](images/Experiment_List.jpg)
