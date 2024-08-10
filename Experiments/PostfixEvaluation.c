@@ -1,8 +1,8 @@
 /*Complilation code:
 
-gcc EvaluationInfixToPostfix.c -o EvaluationInfixToPostfix -lm
+gcc PostfixEvaluation.c -o PostfixEvaluation -lm
 
-./EvaluationInfixToPostfix 
+./PostfixEvaluation
 */
 
 #include <stdio.h>
