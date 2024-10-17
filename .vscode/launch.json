@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/gagan/Desktop/Data_Structure_And_Algorithm/Experiments",
-      "program": "c:/Users/gagan/Desktop/Data_Structure_And_Algorithm/Experiments/build/Debug/outDebug",
+      "cwd": "c:/Users/gagan/Documents/Data_Structure_And_Algorithm/Playground",
+      "program": "c:/Users/gagan/Documents/Data_Structure_And_Algorithm/Playground/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
